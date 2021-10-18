@@ -1,1 +1,1 @@
-# ObesityDetector
+# ObesityClassifier
