@@ -5,5 +5,5 @@ This repository classifies obesity status based on if-else rule and works with M
 Text Analytics Toolbox
 
 ## Usage ##
-You can download 'main.m' to use our obesity status classifier.
+You can download 'main.m' to use our obesity status classifier. <br/>
 Input format: EMR(.txt) in a folder.
